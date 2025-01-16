@@ -66,6 +66,31 @@ main .cartao-pokemon:hover{
     background-color: #a8a8a8;
 }
 
+main .buscadores {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+main select, main input{
+    background-color: #d8e3ec;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    color: #333333;
+}
+
+main input {
+    width: 250px;
+}
+
+.modo-escuro select, .modo-escuro input{
+    background-color: #a8a8a8;
+    color: #f5f5f5;
+}
+
 main .cartao-pokemon .informacoes{
     display: flex;
     justify-content: space-between;
@@ -93,75 +118,91 @@ main .cartao-pokemon .tipo{
     padding: 8px;
     border-radius: 10px;
     font-size: 15px;
-    color: #f5f5f5;
 }
 
 main .grama{
     background-color: #7ac74c;
+    color: #f5f5f5;
 }
 
 main .venenoso{
     background-color: #df67ddfb;
+    color: #f5f5f5;
 }
 
 main .fogo{
     background-color: #ee8130;
+    color: #f5f5f5;
 }
 
 main .voador{
     background-color: #A98FF3;
+    color: #f5f5f5;
 }
 
 main .agua{
     background-color: #6390f0;
+    color: #f5f5f5;
 }
 
 main .inseto{
     background-color: #a6b91a;
+    color: #f5f5f5;
 }
 
 main .normal{
     background-color: #A8A77A;
+    color: #f5f5f5;
 }
 
 main .eletrico{
     background-color: #F7D02C;
+    color: #f5f5f5;
 }
 
 main .terrestre{
     background-color: #E2BF65;
+    color: #f5f5f5;
 }
 
 main .fada{
     background-color: #D685AD;
+    color: #f5f5f5;
 }
 
 main .lutador{
     background-color: #C22E28;
+    color: #f5f5f5;
 }
 
 main .psiquico{
     background-color: #F95587;
+    color: #f5f5f5;
 }
 
 main .pedra{
     background-color: #B6A136;
+    color: #f5f5f5;
 }
 
 main .aco{
     background-color: #B7B7CE;
+    color: #f5f5f5;
 }
 
 main .gelo{
     background-color: #96D9D6;
+    color: #f5f5f5;
 }
 
 main .fantasma{
     background-color: #735797;
+    color: #f5f5f5;
 }
 
 main .dragao{
     background-color: #6F35FC;
+    color: #f5f5f5;
 }
 
 main .descricao{
