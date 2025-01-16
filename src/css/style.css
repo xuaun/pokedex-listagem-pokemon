@@ -86,12 +86,14 @@ main .cartao-pokemon .gif{
 
 main .cartao-pokemon .tipos{
     display: flex;
-    gap: 15px;
+    gap: 10px;
 }
 
 main .cartao-pokemon .tipo{
     padding: 8px;
     border-radius: 10px;
+    font-size: 15px;
+    color: #f5f5f5;
 }
 
 main .grama{
@@ -116,6 +118,50 @@ main .agua{
 
 main .inseto{
     background-color: #a6b91a;
+}
+
+main .normal{
+    background-color: #A8A77A;
+}
+
+main .eletrico{
+    background-color: #F7D02C;
+}
+
+main .terrestre{
+    background-color: #E2BF65;
+}
+
+main .fada{
+    background-color: #D685AD;
+}
+
+main .lutador{
+    background-color: #C22E28;
+}
+
+main .psiquico{
+    background-color: #F95587;
+}
+
+main .pedra{
+    background-color: #B6A136;
+}
+
+main .aco{
+    background-color: #B7B7CE;
+}
+
+main .gelo{
+    background-color: #96D9D6;
+}
+
+main .fantasma{
+    background-color: #735797;
+}
+
+main .dragao{
+    background-color: #6F35FC;
 }
 
 main .descricao{
