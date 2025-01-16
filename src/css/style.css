@@ -68,9 +68,10 @@ main .cartao-pokemon:hover{
 
 main .buscadores {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    gap: 15px;
-    margin-bottom: 15px;
+    gap: 30px;
+    margin-bottom: 30px;
 }
 
 main select, main input{
