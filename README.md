@@ -33,7 +33,7 @@ When you access this Pokédex, you can do three things:
 </p>
 
 ## How to access this pokédex
-To access this pokédex, access its web version at https://xuaun.github.io/pokedex-pokemon-ten-list-website/.
+To access this pokédex, access its web version at https://xuaun.github.io/pokedex-pokemon/.
 
 ## Technologies used
 In this project, ```HTML```, ```CSS```, ```JavaScript``` were used.
@@ -71,7 +71,7 @@ Ao acessar esta pokédex, você pode fazer três coisas:
 </p>
 
 ## Instruções de onde acessar
-Para acessar esta pokédex, acesse sua versão web em https://xuaun.github.io/pokedex-pokemon-ten-list-website/.
+Para acessar esta pokédex, acesse sua versão web em https://xuaun.github.io/pokedex-pokemon/.
 
 ## Tecnologias utilizadas
 Neste projeto, foi utilizado ```HTML```, ```CSS```, ```JavaScript``` .
